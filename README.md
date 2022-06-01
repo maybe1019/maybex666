@@ -12,31 +12,53 @@ I have experiences in NFT minting, NFT marketplace, tokenomics, DeFi and DAO.
 
 #### ***Front-End***
 ✔️ React (5+ years): Redux, Material-UI, Ant Design, Semantic UI
+
 ✔️ Angular (3+ years): Angular Material, NGX Bootstrap, NG Semantic-UI, NG Charts
+
 ✔️ Vue (5+ years): Vuex, Material Kit, Vuetify, Vux, Element
+
 ✔️ Bootstrap, JS, HTML5, SASS, CSS3 - Responsive
+
 ✔️ MERN, MEAN stack
+
 
 #### ***Back-End***
 ✔️ PHP (5+ years): Laravel, Symfony, CodeIgniter, Yii, Node/Express
+
 ✔️ Node, Javascript, Typescript
+
 
 #### ***Blockchain***
 ✔️ Ethereum
+
 ✔️ Solidity
+
 ✔️ NFT Minting
+
+
 ✔️ NFT marketing
+
 ✔️ NFT auction
+
 ✔️ Smart Contract
+
 ✔️ DeFi
 
+
 #### ***Other experiences***
+
 ✔️ Database: MySQL, MongoDB, PostgreSQL, Firebase.
+
 ✔️ API (5+ years): Facebook, Google, Twitter, Twilio, Google Map, Stripe, MailChimp.
+
 ✔️ Several platforms and apis related to eCommerce.
+
 ✔️ AWS, GCP, Azure, Docker.
+
 ✔️ Git, SVN, etc.
+
 ✔️ JIRA, Trello, etc.
+
 ✔️ C++, C#
 
 <!--
