@@ -4,7 +4,7 @@ I am a full stack and blockchain developer and I have 7 years of experience in t
 
 For the late 3 years, I am working on blockchian.
 
-I am familiar with solidity, smart contracts, Openzeppeling and web3.
+I am familiar with solidity, smart contracts, Openzeppelin and web3.
 
 I have experiences in NFT minting, NFT marketplace, tokenomics, DeFi and DAO.
 
