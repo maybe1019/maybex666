@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack and blockchain developer and I have 7 years of experience in web development.
+I am a full stack and I have 7 years of experience in web development.
 
 For the late 3 years, I am working on blockchian.
 
