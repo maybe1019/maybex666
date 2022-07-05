@@ -1,5 +1,12 @@
+<style>
+  h1 {
+    color: red;
+  }
+</style>
+
 <p>
 <h1>Maybex</h1>
+
 ### Hi there 👋
 
 I am a full stack and I have 7 years of experience in web development.
