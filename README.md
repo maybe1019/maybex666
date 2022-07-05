@@ -1,9 +1,13 @@
+<html>
+ <head>
 <style>
   h1 {
     color: red;
   }
 </style>
-
+  </head>
+  
+  <main>
 <p>
 <h1>Maybex</h1>
 
@@ -70,6 +74,7 @@ I have experiences in NFT minting, NFT marketplace, tokenomics, DeFi and DAO.
 
 ✔️ C++, C#
 </p>
+  </main>
 <!--
 **maybex666/maybex666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -84,3 +89,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</html>
