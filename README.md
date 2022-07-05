@@ -1,6 +1,6 @@
 <html>
  <head>
-<style>
+<style type="text/css">
   h1 {
     color: red;
   }
