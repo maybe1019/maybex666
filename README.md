@@ -1,16 +1,3 @@
-<html>
- <head>
-<style type="text/css">
-  h1 {
-    color: red;
-  }
-</style>
-  </head>
-  
-  <main>
-<p>
-<h1>Maybex</h1>
-
 ### Hi there 👋
 
 I am a full stack and I have 7 years of experience in web development.
@@ -73,8 +60,8 @@ I have experiences in NFT minting, NFT marketplace, tokenomics, DeFi and DAO.
 ✔️ JIRA, Trello, etc.
 
 ✔️ C++, C#
-</p>
-  </main>
+
+
 <!--
 **maybex666/maybex666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
